@@ -1,5 +1,5 @@
 {
-    "name": "InformaticaCNE/pdf-bundle",
+    "name": "informatica-cne/pdf-bundle",
     "description": "This bundle integrates Symfony2 with PHPPdf library.",
     "keywords": ["PDF", "PHPPdf"],
     "type": "symfony-bundle",
